@@ -1,0 +1,67 @@
+h1 {
+    color:chartreuse;
+    font-family: fantasy;
+    font-size: large;
+    background-color:aliceblue;
+    width: 150px;
+   
+}
+ h2 {
+    font-size: large;
+    font-family: fantasy;
+    color:chartreuse
+ } 
+
+p {
+   color: darkblue; font-family: fantasy;
+}
+
+#special {
+    color: brown;
+    font-family: fantasy;
+    font-size: medium;
+}
+
+.test {
+    color: darkgreen;
+    font-family: fantasy;
+    font-size: medium;
+    
+}
+
+strong {
+    font-size: medium;
+    font-family: fantasy;
+    color:chartreuse
+ }
+
+ ul {
+    font-size: medium;
+    font-family: fantasy;
+    color:darkblue;
+ } 
+.container{
+    display: flex;
+    border: 3em;
+    margin: 0px;
+    height: 100px;
+
+}
+
+.content{
+    display: flex;
+    border: 3em;
+    margin: 15px;
+
+}
+
+.margin-top{
+    margin-top: 0px;
+    
+
+} 
+
+img {
+    width: auto;
+    height: 400px;
+  }
