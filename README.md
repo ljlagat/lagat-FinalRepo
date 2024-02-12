@@ -5,7 +5,7 @@ My Portfolio
 # AUTHOR NAME
 Lagat Lucy
 # DESCRIPTION
-A HTML project about myself detailing my bio, education, skills and my hobbies
+A HTML project about myself detailing my bio, education, skills and my interests
 # SETUP INSTRUCTION
 Download zip file of this project unzip it on your PC then start the web-site by double clicking on My-Portfolio.html file
 # GITHUB PAGES:
