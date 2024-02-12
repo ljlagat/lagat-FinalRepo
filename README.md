@@ -1,6 +1,5 @@
 # Moringa Project
 Portfolio
-
 # PROJECT NAME
 My Portfolio
 # AUTHOR NAME
