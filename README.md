@@ -3,7 +3,7 @@ Portfolio
 # PROJECT NAME
 My Portfolio
 # AUTHOR NAME
-Lagat Lucia
+Lagat Lucy
 # DESCRIPTION
 A HTML project about myself detailing my name, education, skills and my hobbies
 # SETUP INSTRUCTION
