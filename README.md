@@ -11,4 +11,4 @@ Download zip file of this project unzip it on your PC then start the web-site by
 # GITHUB PAGES:
 https://ljlagat.github.io/lagat-FinalRepo/
 # LICENSE INFORMATION
-This project is license by Lagat Lucia under provided Terms and Condition
+This project is license by Lagat Lucia under provided Terms and Conditions
